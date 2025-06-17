@@ -13,7 +13,7 @@ It integrates Simultaneous Localization and Mapping (SLAM) for autonomous naviga
 
 ## Assembled Robot with Lockable Drug Compartment
 
-![Robot](Robot.png)
+![Robot](Robot.jpg)
 
 
 ---
